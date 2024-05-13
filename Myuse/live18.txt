@@ -115,6 +115,22 @@ CCTV-15音乐,http://180.97.247.27/4403-tx.otvstream.otvcloud.com/otv/skcc/live/
 凤凰卫视,http://118.254.158.105:8888/udp/239.76.246.134:1234
 凤凰卫视,http://171.88.21.15:8888/udp/239.93.0.162:2192
 
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰资讯,http://ax.micaesoft.com/YMitv/YMITV_CN_ifengNEW.m3u8
+凤凰资讯,http://112.19.171.156:9999/udp/239.93.0.118:2191
+凤凰卫视,http://112.19.171.156:9999/udp/239.93.0.162:2192
+凤凰卫视,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+凤凰资讯,http://103.95.24.37:880/fhzx.m3u8
+凤凰卫视,http://103.95.24.37:880/fhws.m3u8
+凤凰卫视,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
+凤凰资讯,https://tv.sd.cn/sichuan?id=239.93.0.118:2191
+凤凰卫视,https://tv.sd.cn/sichuan?id=239.93.0.162:2192
+凤凰资讯,http://www.372583307.top:4022/udp/233.50.200.192:5140
+凤凰资讯,http://vl15191373.imwork.net:8880/udp/239.93.1.4:2191
+凤凰卫视,http://kuanglong.vicp.hk:2121/udp/239.93.16.31:8012
+凤凰资讯,http://kuanglong.vicp.hk:2121/udp/239.93.16.118:8708
 凤凰卫视资讯台,http://120.41.124.228:8888/rtp/239.61.2.183:9086
 凤凰卫视资讯台,http://nas.8211321.com:5555/rtp/239.61.2.183:9086
 凤凰卫视资讯台,http://117.28.32.23:4022/rtp/239.61.2.183:9086
